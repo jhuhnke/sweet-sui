@@ -14,6 +14,30 @@ This readme intends to be a dev-centric gateway to SUI's technology, application
 
 ### Basic Blockchain Safety 🔐
 
+**Private Keys**
+
+Public - private key pairs & how they work - https://www.preveil.com/blog/public-and-private-key/
+
+Secure your web3 private keys - https://blog.sui.io/private-key-security/
+
+How to secure your crypto wallets private keys - https://medium.com/neptune-mutual/how-to-secure-your-crypto-wallets-private-keys-9eae39eba362
+
+**Ledger**
+
+How to connect your Ledger to SUI - https://support.ledger.com/hc/en-us/articles/10136570195101-SUI-?docs=true
+
+Best safety practices with Ledger - https://support.ledger.com/hc/en-us/articles/6747982542749-Best-safety-practices-Ledger?docs=true
+
+General Ledger security topics - https://www.ledger.com/academy/library/topics/security
+
+**Social Scams**
+
+Stay safe on Discord - https://www.ledger.com/academy/how-to-stay-safe-on-discord
+
+10 NFT Scams to watch out for and how to avoid them - https://www.coingecko.com/learn/nft-scams-to-avoid
+
+X (Twitter) Safety and security - https://help.twitter.com/en/safety-and-security
+
 ---
 
 ### Official SUI Links 💧
