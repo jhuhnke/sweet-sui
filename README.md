@@ -76,6 +76,16 @@ SUI Discord - https://discord.com/invite/sui
 
 ---
 
+### Wallets 💸
+
+SUI Wallet - A chrome extension wallet for SUI ([Chrome Webstore](https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil?pli=1))
+
+Suiet Wallet - A open-source wallet for SUI ([Chrome Webstore](https://chromewebstore.google.com/detail/suiet-sui-wallet/khpkpbbcccdmmclmpigdgddabeilkdpd))
+
+Ethos Wallet - Open-source chrome extension wallet for SUI ([Chrome Webstore](https://chromewebstore.google.com/detail/ethos-sui-wallet/mcbigmjiafegjnnogedioegffbooigli))
+
+---
+
 ### Developer References 🦀
 
 **Getting Started**
@@ -147,17 +157,83 @@ SUI Move Intro Course in Mandarin - https://www.youtube.com/watch?v=lZHjmo2ngu0
 
 ### Architecture 
 
+Why We Created SUI Move - Comparing original diem Move with SUI Move - https://blog.sui.io/why-we-created-sui-move/
+
 ---
 
 ### Validators & Nodes 
+
+How to Set Up Onchain Alerting for Your SUI Validators (Scale3) - https://www.youtube.com/watch?v=kDjEd7LPrjU
 
 --- 
 
 ### Analytics and Trends 📈
 
+**Blockchain Status**
+
+SUI Status - https://status.sui.io/
+
+**Explorers**
+
+SUI Explorer
+
+- Mainnet - https://suiexplorer.com/
+- Testnet - https://suiexplorer.com/?network=testnet
+- Devnet - https://suiexplorer.com/?network=devnet
+- Localnet - https://suiexplorer.com/?network=local
+
+SUIscan
+
+- Mainnet - https://suiscan.xyz/mainnet/home
+- Testnet - https://suiscan.xyz/testnet/home
+- Devnet - https://suiscan.xyz/devnet/home
+
+Oklink Explorer - https://www.oklink.com/sui
+
+SuiVision
+
+- Mainnet - https://suivision.xyz/
+- Testnet - https://testnet.suivision.xyz/
+
+**Other Analytics**
+
+SUI Staking Validators & Calculator - https://www.stakingrewards.com/asset/sui
+
+ChainAegis Data API - https://app.chainaegis.com/?lang=en&tab=index&#report
+
 ---
 
 ### Programming Topics 
+
+**Developer Tools**
+Move Package Manager - Like `cargo` or `npm` for Move. Single CLI and corresponding Rust APIs for building, running, testing, debugging, and verifying Move packages - https://github.com/move-language/move/tree/main/language/tools/move-cli
+
+Move Prover - Formal verification of user-defined specifications written in Move source code - https://github.com/move-language/move/tree/main/language/move-prover
+
+Move Read / Write Set Analyzer - Static analysis tool for computing an overapproximation of the global memory touched by a Move program - https://github.com/move-language/move/tree/main/language/tools/read-write-set
+
+Move Playground JS Library - Wrapping the Move Playground as a Javascript library for your browser. Can be used to build your own Move Playground locally - https://github.com/imcoding-online/js-move-playground
+
+Go-SUI-Indexer - An off-fullnode service to grab data from a SUI Node - https://github.com/coming-chat/go-sui-indexer
+
+**IDEs**
+Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
+Move IntelliJ Plugin - https://plugins.jetbrains.com/plugin/14721-move-language
+Move Playground - Similar to Remix, but for Move - https://playground.pontem.network/
+Move Vim - https://github.com/0xmovses/move.vim
+Move-Mode - https://github.com/amnn/move-mode
+
+**SDKs**
+
+Rust SDK - https://github.com/MystenLabs/sui/tree/main/sdk
+TS / JS SDK - https://github.com/MystenLabs/sui/tree/main/sdk/typescript
+Golang Community SDK 1 - https://github.com/coming-chat/go-sui-sdk
+Golang Community SDK 2 - https://github.com/block-vision/sui-go-sdk
+Python Community SDK - https://github.com/FrankC01/pysui
+Java Community SDK - https://github.com/GrapeBaBa/sui4j
+Kotlin Community SDK - https://github.com/cosmostation/suikotlin 
+C# Community SDK - https://github.com/d-moos/SuiNet
+OmniSwap SUI SDK - https://github.com/OmniBTC/OmniSwap-Sui-SDK
 
 ---
 
@@ -187,9 +263,54 @@ What Makes SUI Different? (The IDK Show) - https://www.youtube.com/watch?v=__ker
 
 ### Program Security and Contract Auditing
 
+**Static Analysis and Verification**
+Fast and reliable Formal Verification of Smart Contracts With the Move Prover - https://arxiv.org/abs/2110.08362
+
+
+
+**Contract Auditing Services**
+
+Hacken - https://hacken.io/
+
+Verichains - https://www.verichains.io/
+
+SharkTeam - https://www.sharkteam.org/
+
+Cyberscope - https://www.cyberscope.io/
+
+Blaize.Security - https://blaize.tech/security/
+
+KALOS - https://www.kalos.xyz/
+
+OtterSec - https://osec.io/
+
+0xGuard - https://0xguard.com/
+
+HashEx - https://hashex.org/
+
+softstack - https://softstack.io/
+
+QuillAudits - https://www.quillaudits.com/smart-contract-audit
+
 ---
 
-### Debugging / Troubleshooting
+### Debugging / Troubleshooting 🐛
+
+**General**
+
+Github is a developer's best friend! You can search Github for similar code: 
+
+- Search for Github and look in the left column of results for "Repos, Code, Issues" in a related repo or the repo where the error came from
+- Check in the Code results for related code repos
+- Google or search Github for the exact or variations of the error message 
+
+Github Search - https://github.com/ https://github.com/search/advanced
+
+6 Google Search Tips To Make Googling Code Easier - https://medium.matcha.fyi/6-google-search-tips-to-make-googling-code-easier-da362e21b9da
+
+**Latest Issues**
+
+SUI Latest Issues - https://github.com/MystenLabs/sui/issues
 
 **Developer Communities**
 
