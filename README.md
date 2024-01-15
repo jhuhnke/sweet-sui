@@ -1,6 +1,6 @@
 # 💧 Sweet SUI 💧
 
-A sweet list of SUI links and open-source repositories. Last updated: 14 January 2024. 
+A sweet list of SUI links and open-source repositories. Last updated: 15 January 2024. 
 
 ---
 
@@ -41,6 +41,34 @@ X (Twitter) Safety and security - https://help.twitter.com/en/safety-and-securit
 ---
 
 ### Official SUI Links 💧
+
+Main SUI webpage - https://sui.io/
+
+Official SUI Docs - https://docs.sui.io/
+
+Use Cases - https://sui.io/use-cases
+
+Developer Portal - https://sui.io/developers
+
+Grants Hub - https://sui.io/grants-hub
+
+Events - https://sui.io/events
+
+Ambassador Program - https://sui.io/ambassadors
+
+Job Board - https://jobs.sui.io/jobs
+
+Directory of Ecosystem Projects - https://sui.directory/
+
+Mysten Labs - https://mystenlabs.com/
+
+SUI Twitter - https://twitter.com/SuiNetwork
+
+SUI Foundation Twitter - https://twitter.com/SuiFoundation
+
+Mysten Labs Twitter - https://twitter.com/Mysten_Labs
+
+Mysten Labs Github - https://github.com/MystenLabs
 
 ---
 
