@@ -70,6 +70,10 @@ Mysten Labs Twitter - https://twitter.com/Mysten_Labs
 
 Mysten Labs Github - https://github.com/MystenLabs
 
+SUI Blog - https://blog.sui.io/
+
+SUI Discord - https://discord.com/invite/sui
+
 ---
 
 ### Developer References 🦀
@@ -106,11 +110,38 @@ Move Playground - https://pontem.network/move-code-playground
 
 Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
 
-
-
 ---
 
 ### Tutorials 🙋
+
+**Classes**
+
+SUI Move Intro Course - https://github.com/sui-foundation/sui-move-intro-course
+
+SUI zkLogin Tutorial - https://github.com/juzybits/polymedia-zklogin-demo
+
+SUI Move Analyzer Tutorial - https://blog.sui.io/move-analyzer-tutorial/
+
+SUI Move Intro Course In Mandarin - https://github.com/RandyPen/sui-move-intro-course-zh
+
+SUI 101 - https://docs.sui.io/guides/developer/sui-101
+
+Exploring SUI (Korean) - https://www.inflearn.com/course/%EC%9B%B0%EB%8D%98%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-sui-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0
+
+
+**Youtube**
+
+Introduction to SUI Network and Move - https://www.youtube.com/watch?v=cJwN3IhpLnQ
+
+MoveDAO Move Tutorial Playlist - https://www.youtube.com/watch?v=fOaImPSvA2E&list=PLIJGo36CtI4L3sbAPX8motTQhzka4sMdh
+
+Encode X SUI Educate - https://www.youtube.com/watch?v=fZRk1E4XmJo&list=PLfEHHr3qexv_aE7p6oDyVtD3WQsDsJngr
+
+SUI - Move Smart Contract Programming Language Introduction (mtvs4u) - https://www.youtube.com/watch?v=7GCu90-udgE
+
+SUI Fullstack Tutorial - https://www.youtube.com/playlist?list=PLvrJ-5wsCykchZnZBIxj1NB_gwZqkfpLz
+
+SUI Move Intro Course in Mandarin - https://www.youtube.com/watch?v=lZHjmo2ngu0
 
 ---
 
@@ -136,7 +167,21 @@ Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.m
 
 ### Podcasts 
 
-Zero Knowledge: Move & SUI with Sam Blackshear from Mysten Labs -https://zeroknowledge.fm/228-2/
+Zero Knowledge: Move & SUI with Sam Blackshear from Mysten Labs - https://zeroknowledge.fm/228-2/
+
+Let's get MOVING - Sam Blackshear Talks Move Programming Language - https://www.youtube.com/watch?v=b_2jZ4YEfWc 
+
+SUI, the Next-Generation Layer 1: Adeniyi Abiodun, co-founder and CPO, Mysten Labs - https://www.youtube.com/watch?v=i4fcY4XDbPc
+
+Fireside chat with Evan Cheng, Founder of SUI - https://www.youtube.com/watch?v=yWH_yGwASco
+
+Bondcast: How has 2024 started? - https://www.youtube.com/watch?v=8drFDavft3I
+
+SUI Lutris: Combining Broadcast and Consensus in a Production Blockchain (a16z crypto) - https://www.youtube.com/watch?v=YZRazqlZQGY
+
+Unveiling the SUI Blockchain: Pioneering Features and Unique Advantages (Animoca) - https://www.youtube.com/watch?v=jM5VBxoKPyM
+
+What Makes SUI Different? (The IDK Show) - https://www.youtube.com/watch?v=__kerstVMig
 
 ---
 
@@ -145,6 +190,16 @@ Zero Knowledge: Move & SUI with Sam Blackshear from Mysten Labs -https://zerokno
 ---
 
 ### Debugging / Troubleshooting
+
+**Developer Communities**
+
+Developer Forums - https://forums.sui.io/
+
+Suinami Riders Telegram Chat - https://t.me/+pxh89f8xU5RmYjNh
+
+SUI Discord - https://discord.com/invite/sui
+
+Move Language Discord - https://discord.com/invite/cPUmhe24Mz
 
 ---
 
