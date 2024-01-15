@@ -74,6 +74,40 @@ Mysten Labs Github - https://github.com/MystenLabs
 
 ### Developer References 🦀
 
+**Getting Started**
+
+Official Documentation - https://docs.sui.io/
+
+Installing SUI - https://docs.sui.io/guides/developer/getting-started/sui-install
+
+Running a validator - https://docs.sui.io/guides/operator/validator-config
+
+Full Node Configuration - https://docs.sui.io/guides/operator/sui-full-node
+
+JSON RPC API - https://docs.sui.io/guides/developer/getting-started/connect
+
+Mainnet Faucet - https://stakely.io/en/faucet/sui-sui
+
+Testnet Faucet - https://faucet.triangleplatform.com/sui/testnet
+
+**Move**
+
+SUI Move Framework - https://github.com/MystenLabs/sui/tree/main/crates/sui-framework
+
+Awesome Move - https://github.com/MystenLabs/awesome-move?tab=readme-ov-file
+
+Move Book - https://move-language.github.io/move/
+
+Move Patterns - https://www.move-patterns.com/
+
+SUI Move By Example - https://examples.sui.io/
+
+Move Playground - https://pontem.network/move-code-playground
+
+Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
+
+
+
 ---
 
 ### Tutorials 🙋
@@ -101,6 +135,8 @@ Mysten Labs Github - https://github.com/MystenLabs
 ---
 
 ### Podcasts 
+
+Zero Knowledge: Move & SUI with Sam Blackshear from Mysten Labs -https://zeroknowledge.fm/228-2/
 
 ---
 
