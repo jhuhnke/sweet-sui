@@ -1,6 +1,6 @@
 # 💧 Sweet SUI 💧
 
-A sweet list of SUI links and open-source repositories. Last updated: 15 January 2024. 
+A sweet list of SUI links and open-source repositories. Last updated: 16 January 2024. 
 
 ---
 
@@ -201,11 +201,18 @@ SUI Staking Validators & Calculator - https://www.stakingrewards.com/asset/sui
 
 ChainAegis Data API - https://app.chainaegis.com/?lang=en&tab=index&#report
 
+Indexer.xyz - A multi-chain NFT indexing platform that includes SUI data - https://www.indexer.xyz/
+
+Blockvision SUI - An RPC provider and indexer for NFT and token information on SUI - https://docs.blockvision.org/reference/sui-indexing-api
+
+Chainbase - A multi-chain data API that contains information about SUI NFTs, coins, and blocks - https://chainbase.com/datasets?chain=sui
+
 ---
 
 ### Programming Topics 
 
 **Developer Tools**
+
 Move Package Manager - Like `cargo` or `npm` for Move. Single CLI and corresponding Rust APIs for building, running, testing, debugging, and verifying Move packages - https://github.com/move-language/move/tree/main/language/tools/move-cli
 
 Move Prover - Formal verification of user-defined specifications written in Move source code - https://github.com/move-language/move/tree/main/language/move-prover
@@ -216,28 +223,59 @@ Move Playground JS Library - Wrapping the Move Playground as a Javascript librar
 
 Go-SUI-Indexer - An off-fullnode service to grab data from a SUI Node - https://github.com/coming-chat/go-sui-indexer
 
+SUI dApp Kit - A set of React components, hooks, and utilities that make it easy to build a dApp on SUI - https://sdk.mystenlabs.com/dapp-kit?ref=blog.sui.io
+
+Mirror World - An all-in-one application development platform that helps developers deploy, grow, and monetize their blockchain applications. Available on SUI and other chains - https://www.mirrorworld.fun/
+
+All Art Unity - A Unity package that provides wallet implementation for the SUI blockchain - https://github.com/allartprotocol/allart-unity-sui-wallet
+
 **IDEs**
+
 Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
+
 Move IntelliJ Plugin - https://plugins.jetbrains.com/plugin/14721-move-language
+
 Move Playground - Similar to Remix, but for Move - https://playground.pontem.network/
+
 Move Vim - https://github.com/0xmovses/move.vim
+
 Move-Mode - https://github.com/amnn/move-mode
 
 **SDKs**
 
 Rust SDK - https://github.com/MystenLabs/sui/tree/main/sdk
+
 TS / JS SDK - https://github.com/MystenLabs/sui/tree/main/sdk/typescript
+
 Golang Community SDK 1 - https://github.com/coming-chat/go-sui-sdk
+
 Golang Community SDK 2 - https://github.com/block-vision/sui-go-sdk
+
 Python Community SDK - https://github.com/FrankC01/pysui
+
 Java Community SDK - https://github.com/GrapeBaBa/sui4j
+
 Kotlin Community SDK - https://github.com/cosmostation/suikotlin 
+
 C# Community SDK - https://github.com/d-moos/SuiNet
+
 OmniSwap SUI SDK - https://github.com/OmniBTC/OmniSwap-Sui-SDK
 
 ---
 
 ### NFTS 
+
+**Marketplaces**
+
+Keepsake NFT Marketplace - https://sui.directory/project/keepsake-nft-marketplace/
+
+BlueMove - https://sui.directory/project/bluemove/
+
+OKX Marketplace - https://sui.directory/project/okx-nft-marketplace/
+
+**Developer Tools**
+
+Origin Byte - NFT standards and tooling for game developers - https://www.originbyte.io/
 
 ---
 
@@ -264,8 +302,8 @@ What Makes SUI Different? (The IDK Show) - https://www.youtube.com/watch?v=__ker
 ### Program Security and Contract Auditing
 
 **Static Analysis and Verification**
-Fast and reliable Formal Verification of Smart Contracts With the Move Prover - https://arxiv.org/abs/2110.08362
 
+Fast and reliable Formal Verification of Smart Contracts With the Move Prover - https://arxiv.org/abs/2110.08362
 
 
 **Contract Auditing Services**
