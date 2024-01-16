@@ -120,6 +120,8 @@ Move Playground - https://pontem.network/move-code-playground
 
 Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
 
+Why We Created SUI Move - Comparing original diem Move with SUI Move - https://blog.sui.io/why-we-created-sui-move/
+
 ---
 
 ### Tutorials 🙋
@@ -155,15 +157,15 @@ SUI Move Intro Course in Mandarin - https://www.youtube.com/watch?v=lZHjmo2ngu0
 
 ---
 
-### Architecture 
-
-Why We Created SUI Move - Comparing original diem Move with SUI Move - https://blog.sui.io/why-we-created-sui-move/
-
----
-
 ### Validators & Nodes 
 
+Instructions on How to Set Up a Validator Node - https://docs.sui.io/guides/operator/validator-config
+
+Location of All Validators - https://suiexplorer.com/validators
+
 How to Set Up Onchain Alerting for Your SUI Validators (Scale3) - https://www.youtube.com/watch?v=kDjEd7LPrjU
+
+Splash Dash - An all in one SUI dashboard for staking, investments, and asset management - https://dash.splash.im/mainnet/dashboard
 
 --- 
 
