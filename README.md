@@ -242,6 +242,8 @@ Mirror World - An all-in-one application development platform that helps develop
 
 All Art Unity - A Unity package that provides wallet implementation for the SUI blockchain - https://github.com/allartprotocol/allart-unity-sui-wallet
 
+Suibase - A set of CLI scripts to maintain distinct Sui binaries version (and keystore) for each network. Complements any existing dev setup with a consistent localnet (always same address, faucet etc...) and reliable Sui RPC Proxy server - https://suibase.io
+
 **IDEs**
 
 Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
