@@ -84,6 +84,10 @@ Suiet Wallet - A open-source wallet for SUI ([Chrome Webstore](https://chromeweb
 
 Ethos Wallet - Open-source chrome extension wallet for SUI ([Chrome Webstore](https://chromewebstore.google.com/detail/ethos-sui-wallet/mcbigmjiafegjnnogedioegffbooigli))
 
+Mofa Labs - An open-source mobile wallet - https://mofalabs.com
+
+Elli Wallet - A mobile wallet - https://elliwallet.com
+
 ---
 
 ### Developer References 🦀
@@ -104,6 +108,8 @@ Mainnet Faucet - https://stakely.io/en/faucet/sui-sui
 
 Testnet Faucet - https://faucet.triangleplatform.com/sui/testnet
 
+Devnet & Testnet Faucets - https://discord.gg/sui
+
 **Move**
 
 SUI Move Framework - https://github.com/MystenLabs/sui/tree/main/crates/sui-framework
@@ -112,15 +118,13 @@ Awesome Move - https://github.com/MystenLabs/awesome-move?tab=readme-ov-file
 
 Move Book - https://move-language.github.io/move/
 
-Move Patterns - https://www.move-patterns.com/
-
 SUI Move By Example - https://examples.sui.io/
 
-Move Playground - https://pontem.network/move-code-playground
-
-Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
+Sui Examples - https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples
 
 Why We Created SUI Move - Comparing original diem Move with SUI Move - https://blog.sui.io/why-we-created-sui-move/
+
+Sui Tears - Sui Move library - https://github.com/interest-protocol/suitears
 
 ---
 
@@ -130,20 +134,23 @@ Why We Created SUI Move - Comparing original diem Move with SUI Move - https://b
 
 SUI Move Intro Course - https://github.com/sui-foundation/sui-move-intro-course
 
+SUI 101 - https://docs.sui.io/guides/developer/sui-101
+
+Sui Move Basic - https://medium.com/@BlockRunner/code-in-move-4-sui-move-basics-76c21cc0df1c
+
 SUI zkLogin Tutorial - https://github.com/juzybits/polymedia-zklogin-demo
 
 SUI Move Analyzer Tutorial - https://blog.sui.io/move-analyzer-tutorial/
 
-SUI Move Intro Course In Mandarin - https://github.com/RandyPen/sui-move-intro-course-zh
-
-SUI 101 - https://docs.sui.io/guides/developer/sui-101
-
 Exploring SUI (Korean) - https://www.inflearn.com/course/%EC%9B%B0%EB%8D%98%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-sui-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0
 
+SUI Move Intro Course In Mandarin - https://github.com/RandyPen/sui-move-intro-course-zh
 
 **Youtube**
 
 Introduction to SUI Network and Move - https://www.youtube.com/watch?v=cJwN3IhpLnQ
+
+Sui workshops - https://www.youtube.com/@Sui-Network/streams
 
 MoveDAO Move Tutorial Playlist - https://www.youtube.com/watch?v=fOaImPSvA2E&list=PLIJGo36CtI4L3sbAPX8motTQhzka4sMdh
 
@@ -162,6 +169,8 @@ SUI Move Intro Course in Mandarin - https://www.youtube.com/watch?v=lZHjmo2ngu0
 Instructions on How to Set Up a Validator Node - https://docs.sui.io/guides/operator/validator-config
 
 Location of All Validators - https://suiexplorer.com/validators
+
+Validator stats - https://valstat.xyz/
 
 How to Set Up Onchain Alerting for Your SUI Validators (Scale3) - https://www.youtube.com/watch?v=kDjEd7LPrjU
 
@@ -215,6 +224,8 @@ Chainbase - A multi-chain data API that contains information about SUI NFTs, coi
 
 **Developer Tools**
 
+Sui Binaries - Contains the CLI to interact with the blockchain and Sui Move Package Manager - `cargo install --locked --git https://github.com/MystenLabs/sui.git --branch devnet sui`
+
 Move Package Manager - Like `cargo` or `npm` for Move. Single CLI and corresponding Rust APIs for building, running, testing, debugging, and verifying Move packages - https://github.com/move-language/move/tree/main/language/tools/move-cli
 
 Move Prover - Formal verification of user-defined specifications written in Move source code - https://github.com/move-language/move/tree/main/language/move-prover
@@ -235,9 +246,11 @@ All Art Unity - A Unity package that provides wallet implementation for the SUI 
 
 Move VS Code Plugin - https://marketplace.visualstudio.com/items?itemName=move.move-analyzer
 
+Sui Move VS Code Plugin (alternative) - https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer
+
 Move IntelliJ Plugin - https://plugins.jetbrains.com/plugin/14721-move-language
 
-Move Playground - Similar to Remix, but for Move - https://playground.pontem.network/
+Sui Playground - Similar to Remix, but for Sui Move - https://www.movestudio.dev/
 
 Move Vim - https://github.com/0xmovses/move.vim
 
@@ -268,6 +281,10 @@ OmniSwap SUI SDK - https://github.com/OmniBTC/OmniSwap-Sui-SDK
 ### NFTS 
 
 **Marketplaces**
+
+Hyperspace - https://sui.hyperspace.xyz
+
+Tradeport - https://tradeport.xyz
 
 Keepsake NFT Marketplace - https://sui.directory/project/keepsake-nft-marketplace/
 
