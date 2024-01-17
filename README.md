@@ -1,6 +1,6 @@
 # 💧 Sweet SUI 💧
 
-A sweet list of SUI links and open-source repositories. Last updated: 16 January 2024. 
+A sweet list of SUI links and open-source repositories. Last updated: 17 January 2024. 
 
 ---
 
@@ -468,6 +468,153 @@ Narwhal - High throughput mempool & consensus, used in the SUI smart contract pl
 - Integer Mate - Library of move module that provides signed integer and integer math functions - https://github.com/CetusProtocol/integer-mate
 - CLMM Integration SDK - https://github.com/CetusProtocol/clmm-integration-sdk
 - Cetus Integrate - Easily integrate swaps from Cetus' concentrated liquidity pools - https://github.com/CetusProtocol/cetus-integrate
+
+[Bucket Protocol](https://github.com/Bucket-Protocol)
+
+- Bucket Protocol SDK - https://github.com/Bucket-Protocol/bucket-protocol-sdk
+- Fountain - Incentive program of Bucket Protocol to airdrop SUI to active users - https://github.com/Bucket-Protocol/fountain
+- Fountain Periphery - https://github.com/Bucket-Protocol/fountain-periphery
+- Raffle Move - https://github.com/Bucket-Protocol/Raffle-move
+
+[Navi Protocol](https://github.com/naviprotocol)
+
+- Protocol Interface - https://github.com/naviprotocol/protocol-interface
+
+[Scallop](https://github.com/scallop-io)
+
+- SUI Scallop SDK - https://github.com/scallop-io/sui-scallop-sdk
+- Scallop Decorations URI - https://github.com/scallop-io/scallop-decorations-uri
+- SUI Lending Protocol - https://github.com/scallop-io/sui-lending-protocol
+- Scallop Landing Page - https://github.com/scallop-io/scallop-landing
+- SUI Scallop Indexer - https://github.com/scallop-io/sui-scallop-indexer
+- Scallop NFT Holder - https://github.com/scallop-io/scallop-nft-holder
+- Scallop Mini Wallet - https://github.com/scallop-io/scallop-mini-wallet
+
+**Wallets**
+
+[Ethos Wallet](https://github.com/EthosWallet)
+
+- Chrome Extension - https://github.com/EthosWallet/chrome-extension
+- Ethos Connect - https://github.com/EthosWallet/ethos-connect
+- SUI8192 - https://github.com/EthosWallet/Sui8192
+- Ethos Example App - https://github.com/EthosWallet/ethos-example-app
+
+[Splash Wallet by Cosmostation](https://github.com/cosmostation)
+
+- Splash Wallet - https://github.com/cosmostation/splash
+
+[Surf Labs](https://github.com/surflabs)
+
+- Surf Extenstion - Makes it easy and safe to collect NFTs and transfer tokens on the SUI blockchain - https://github.com/surflabs/surf-extension
+- SUI Multisig - https://github.com/surflabs/sui-multisig
+
+[Suiet](https://github.com/suiet)
+
+- Suiet - https://github.com/suiet/suiet
+
+**NFTs**
+
+[Keepsake Marketplace](https://github.com/KeepsakeMarketplace)
+
+- Keepsake contracts - https://github.com/KeepsakeMarketplace/keepsake-contracts
+- Alchemy Move - https://github.com/KeepsakeMarketplace/alchemy_move
+
+[Suia](https://github.com/Mynft)
+
+- Suia main repo - https://github.com/Mynft/suia
+- Suia airdrop - https://github.com/Mynft/suiadrop
+- Suia token - https://github.com/Mynft/suia-token
+
+[Origin Byte](https://github.com/Origin-Byte) 
+
+- NFT Protocol Smart Contracts - https://github.com/Origin-Byte/nft-protocol
+- SUI Version Manager - https://github.com/Origin-Byte/suivm
+- Critbit data structure for SUI - https://github.com/Origin-Byte/critbit
+- Key Migration - https://github.com/Origin-Byte/key-migration
+- Origin Mate - A library of module building blocks for SUI - https://github.com/Origin-Byte/originmate
+- SUI Unity SDK - https://github.com/Origin-Byte/sui-unity-sdk
+- SUI Net - A C# SDK to interact with the SUI blockchain and interact with the OriginByte NFT Protocol - https://github.com/Origin-Byte/suinet
+- SUI Unreal Engine SDK - https://github.com/Origin-Byte/sui-unreal-sdk
+- OriginByte JS SDK - https://github.com/Origin-Byte/originbyte-js-sdk
+- Liquidity Layer - The secondary liquidity layer for OriginByte's NFT protocol - https://github.com/Origin-Byte/liquidity_layer
+
+**Infra**
+
+[Chainbase](https://github.com/chainbase-labs)
+
+- SUI Dashboard - https://github.com/chainbase-labs/sui-dashboard
+
+[Mirror World](https://github.com/mirrorworld-universe)
+
+- SUI Asset Minting - https://github.com/mirrorworld-universe/mirrorworld-sui-asset-minting
+- SUI Asset Minting Client - https://github.com/mirrorworld-universe/mirrorworld-sui-asset-minting-client
+- Town Story SUI Contract SDK - https://github.com/mirrorworld-universe/town-story-sui-contract-sdk
+- Rage Effect SUI Contract SDK - https://github.com/mirrorworld-universe/rage-effect-sui-contract-sdk
+
+[Switchboard](https://github.com/switchboard-xyz)
+
+- SUI SDK - https://github.com/switchboard-xyz/sui-sdk
+
+[BlockVision](https://github.com/block-vision) 
+
+- SUI Go SDK - https://github.com/block-vision/sui-go-sdk
+
+**Developer Tooling**
+
+[dddappp](https://github.com/dddappp)
+
+- A SUI Demo - https://github.com/dddappp/A-Sui-Demo
+- SUI Swap Example - https://github.com/dddappp/sui-swap-example
+- SUI Blog Example - https://github.com/dddappp/sui-blog-example
+- SUI Inscription - https://github.com/dddappp/sui-inscription
+- SUI Crowdfunding Example - https://github.com/dddappp/sui-crowdfunding-example
+
+[Move Studio IDE](https://github.com/MoveStudioIDE)
+
+- Get Movin - Move Studio's SUI Move Education Repo - https://github.com/MoveStudioIDE/get-movin
+- Mono Repo - https://github.com/MoveStudioIDE/mono-repo
+- Quest Mode IDE - https://github.com/MoveStudioIDE/quest-mode-IDE
+
+[Chainmovers](https://github.com/ChainMovers)
+
+- SUI Base - Sui Development environment and cookbook - https://github.com/ChainMovers/suibase
+- SUI Base API Docs - https://github.com/ChainMovers/suibase-api-docs
+
+[PySUI by FrankC01](https://github.com/FrankC01)
+
+- PySUI - https://github.com/FrankC01/pysui
+
+**Social**
+
+[Polymedia by Juzybits](https://github.com/juzybits)
+
+- Polymedia profile - On-chain identity system on SUI - https://github.com/juzybits/polymedia-profile
+- Polymedia commando - command line tools for airdrops, data gathering, and more - https://github.com/juzybits/polymedia-commando
+- Polymedia chat - https://github.com/juzybits/polymedia-chat
+- Polymedia Got Beef? - On-chain bets on SUI - https://github.com/juzybits/polymedia-gotbeef
+
+**Launchpad**
+
+[BELAUNCH](https://github.com/belaunch-io)
+
+- Belaunch Frontend - https://github.com/belaunch-io/Belaunch-frontend
+- V1 Core Modules - Core smart contracts of BeLaunch V1 - https://github.com/belaunch-io/v1-core-modules
+- Belaunch BLAT Token Contracts - https://github.com/belaunch-io/belaunch-contract
+
+**Gaming**
+
+[Battlemon](https://github.com/battlemon-project)
+
+- Battlemon Application - https://github.com/battlemon-project/app
+- Cloud Formation - https://github.com/battlemon-project/cloud-formation
+- Babylon JS Game - https://github.com/battlemon-project/babylonjs-game
+- SUI Contracts -  https://github.com/battlemon-project/sui-contracts
+- Game Build - The latest game build of battlemon - https://github.com/battlemon-project/game_build
+
+[VMeta3](https://github.com/vmeta3)
+
+- Metaverse Contracts Move - https://github.com/VMETA3/metaverse-contracts-move
+- SUI Hackathon Submission - https://github.com/VMETA3/sui-hackathon
 
 ---
 
