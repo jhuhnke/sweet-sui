@@ -385,6 +385,52 @@ Move Language Discord - https://discord.com/invite/cPUmhe24Mz
 
 ### Open Source Repositories 
 
+**Mysten Labs / Official Repos**
+
+SUI - https://github.com/MystenLabs/sui
+
+Blackjack with SUI and Move - https://github.com/MystenLabs/blackjack-sui
+
+EVM <--> SUI Bridge - https://github.com/MystenLabs/evm-sui-bridge
+
+SUI Genesis - Genesis state for various SUI networks - https://github.com/MystenLabs/sui-genesis
+
+zkSend Wallet Demo - https://github.com/MystenLabs/zksend-wallet-demo
+
+Fast Crypto Library - https://github.com/MystenLabs/fastcrypto
+
+SUI Asset Tokenization - https://github.com/MystenLabs/asset-tokenization
+
+React Native zkLogin Proof of Concept - https://github.com/MystenLabs/react-native-zklogin-poc
+
+SUI Circulation API - https://github.com/MystenLabs/sui-circulation-api
+
+Apps - The Home of applications such as suifrens that were created by Mysten Labs - https://github.com/MystenLabs/apps
+
+Mysten Sim - Deterministic executor and network simulator for tokio based systems - https://github.com/MystenLabs/mysten-sim
+
+ed25519 Unsafe Libraries - A list of unsafe ed25519 libraries - https://github.com/MystenLabs/ed25519-unsafe-libs
+
+Hacker House Examples - https://github.com/MystenLabs/hacker-house-examples
+
+SUI Colors - https://github.com/MystenLabs/sui-colors
+
+Satoshi Coin Flip - https://github.com/MystenLabs/satoshi-coin-flip
+
+Mysten App Docs - https://github.com/MystenLabs/mysten-app-docs
+
+SUI Fantasy - https://github.com/MystenLabs/sui-fantasy
+
+Capybot - Automated Trading Bot - https://github.com/MystenLabs/capybot
+
+SUI Doctor - Tool for automatic diagnosis of configuration problems - https://github.com/MystenLabs/sui-doctor
+
+SUI Axelar - sketches for connecting SUI to the Axelar bridge - https://github.com/MystenLabs/sui-axelar
+
+Mysten Infra - Common infrastructure used by multiple Mysten Projects - https://github.com/MystenLabs/mysten-infra
+
+Narwhal - High throughput mempool & consensus, used in the SUI smart contract platform - https://github.com/MystenLabs/narwhal
+
 ---
 
 This is intended to be a near comprehensive list of SUI blockchain resources. If you do not see a resource, feel free to contribute! To contribute, please follow the "fork and pull" Git workflow: 
