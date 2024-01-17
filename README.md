@@ -431,6 +431,44 @@ Mysten Infra - Common infrastructure used by multiple Mysten Projects - https://
 
 Narwhal - High throughput mempool & consensus, used in the SUI smart contract platform - https://github.com/MystenLabs/narwhal
 
+**Defi**
+
+[Aftermath Finance](https://github.com/AftermathFinance) 
+
+- Aftermath Typescript SDK - https://github.com/AftermathFinance/aftermath-ts-sdk
+- Aftermath Finanace SUI Decorators - https://github.com/AftermathFinance/af-sui-decorators
+
+[SeaPad](https://github.com/seapad-fund)
+
+- Seapad SDK - https://github.com/seapad-fund/seapad-sdk
+- Seapad Gift - https://github.com/seapad-fund/seapad-gift
+
+[Turbos Finance](https://github.com/turbos-finance)
+
+- Turbos SUI Move Interface - https://github.com/turbos-finance/turbos-sui-move-interface
+- Turbos Oracle - https://github.com/turbos-finance/turbos-oracle
+- Turbos CLMM SDK - https://github.com/turbos-finance/turbos-clmm-sdk
+- Luckystar Turbos Presale - https://github.com/turbos-finance/Luckystar-Turbos-PreSale-Move
+- Turbos Javascript SDK - https://github.com/turbos-finance/turbos-sdk-js
+
+[Typus Finance](https://github.com/Typus-Lab/)
+
+- Typus SDK - https://github.com/Typus-Lab/typus-sdk
+- Typus Assets - https://github.com/Typus-Lab/typus-asset
+- Typus Oracle - https://github.com/Typus-Lab/typus-oracle
+- Typus Framework - https://github.com/Typus-Lab/typus-framework
+- Typus Defi Options Vaults - https://github.com/Typus-Lab/typus-dov
+
+[Cetus Protocol](https://github.com/CetusProtocol/cetus-amm)
+
+- Cetus AMM - https://github.com/CetusProtocol/cetus-amm
+- Cetus CLMM Protocol Front - https://github.com/CetusProtocol/app-clmm
+- Cetus CLMM SUI SDK - https://github.com/CetusProtocol/cetus-clmm-sui-sdk
+- Move STL - A data structure and algorithm library for Move - https://github.com/CetusProtocol/move-stl
+- Integer Mate - Library of move module that provides signed integer and integer math functions - https://github.com/CetusProtocol/integer-mate
+- CLMM Integration SDK - https://github.com/CetusProtocol/clmm-integration-sdk
+- Cetus Integrate - Easily integrate swaps from Cetus' concentrated liquidity pools - https://github.com/CetusProtocol/cetus-integrate
+
 ---
 
 This is intended to be a near comprehensive list of SUI blockchain resources. If you do not see a resource, feel free to contribute! To contribute, please follow the "fork and pull" Git workflow: 
