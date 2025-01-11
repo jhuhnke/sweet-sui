@@ -284,11 +284,7 @@ OmniSwap SUI SDK - https://github.com/OmniBTC/OmniSwap-Sui-SDK
 
 **Marketplaces**
 
-Hyperspace - https://sui.hyperspace.xyz
-
 Tradeport - https://tradeport.xyz
-
-Keepsake NFT Marketplace - https://sui.directory/project/keepsake-nft-marketplace/
 
 BlueMove - https://sui.directory/project/bluemove/
 
@@ -537,6 +533,11 @@ Narwhal - High throughput mempool & consensus, used in the SUI smart contract pl
 - SUI Unreal Engine SDK - https://github.com/Origin-Byte/sui-unreal-sdk
 - OriginByte JS SDK - https://github.com/Origin-Byte/originbyte-js-sdk
 - Liquidity Layer - The secondary liquidity layer for OriginByte's NFT protocol - https://github.com/Origin-Byte/liquidity_layer
+
+[Studio Mirai](https://github.com/studio-mirai)
+- Prime Machin - https://github.com/studio-mirai/prime-machin-contracts
+- MiraiFS - https://github.com/studio-mirai/miraifs
+- MiraiDrop - https://github.com/studio-mirai/miraidrop
 
 **Infra**
 
